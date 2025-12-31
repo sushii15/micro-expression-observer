@@ -1,0 +1,24 @@
+MICRO-EXPRESSION OBSERVATION REPORT
+===================================
+Date: Tue Dec 30 19:37:52 2025
+Duration: 28.0 seconds
+Events Detected: 17
+----------------------------------------
+
+At 3.2s, a distinct eye narrowing was observed (duration: 126ms). Predicted Context: happiness.
+At 3.2s, a slight lip corner depression was observed (duration: 110ms). Predicted Context: happiness.
+At 3.9s, a distinct eye narrowing was observed (duration: 104ms). Predicted Context: happiness.
+At 3.9s, a distinct lip corner depression was observed (duration: 207ms). Predicted Context: happiness.
+At 4.3s, a slight lip corner depression was observed (duration: 813ms). Predicted Context: happiness.
+At 15.9s, a distinct eye narrowing was observed (duration: 394ms). Predicted Context: happiness.
+At 16.7s, a slight lip corner depression was observed (duration: 282ms). Predicted Context: happiness.
+At 18.1s, a slight lip corner pull was observed (duration: 111ms). Predicted Context: happiness.
+At 19.9s, a slight eye narrowing was observed (duration: 130ms). Predicted Context: happiness.
+At 20.0s, a slight eye narrowing was observed (duration: 118ms). Predicted Context: happiness.
+At 20.3s, a slight eye narrowing was observed (duration: 116ms). Predicted Context: happiness.
+At 20.6s, a distinct lip corner pull was observed (duration: 574ms). Predicted Context: happiness.
+At 21.5s, a distinct lip corner pull was observed (duration: 540ms). Predicted Context: happiness.
+At 22.2s, a slight lip corner pull was observed (duration: 115ms). Predicted Context: happiness.
+At 22.5s, a distinct lip corner pull was observed (duration: 814ms). Predicted Context: happiness.
+At 26.6s, a slight eye narrowing was observed (duration: 114ms). Predicted Context: happiness.
+At 27.6s, a slight lip corner depression was observed (duration: 195ms). Predicted Context: happiness.
